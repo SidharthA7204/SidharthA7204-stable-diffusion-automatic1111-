@@ -122,11 +122,11 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
+
+## 👤 Author
+
 Sidharth A  
-AI and Full Stack Developer  
-GitHub: https://github.com/SidharthA7204
+- GitHub: https://github.com/SidharthA7204  
+- LinkedIn: 
 
----
-
-If you like this project, feel free to star the repository and share it.
+Open to opportunities
