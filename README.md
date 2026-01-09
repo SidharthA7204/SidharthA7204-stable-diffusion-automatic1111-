@@ -127,6 +127,6 @@ This project is licensed under the MIT License.
 
 Sidharth A  
 - GitHub: https://github.com/SidharthA7204  
-- LinkedIn: 
+- LinkedIn: : www.linkedin.com/in/sidhartha742003
 
 Open to opportunities
